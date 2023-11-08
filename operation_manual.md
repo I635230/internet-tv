@@ -450,6 +450,10 @@ VALUES
 ('ドラマ', '2023-11-13', 44, 104);
 ```
 
+サンプルデータ挿入の工程は以上です。
+
+次にデータを取得するSQLを試したい場合は、[sql.md](sql.md)を開いてください。
+
 ### 3.2. サンプルデータ削除
 
 ```sql
@@ -462,7 +466,3 @@ ALTER TABLE episodes AUTO_INCREMENT=1;
 DELETE FROM tv_shows;
 ALTER TABLE tv_shows AUTO_INCREMENT=1;
 ```
-
-サンプルデータ挿入の工程は以上です。
-
-次にデータを取得するSQLを試したい場合は、sql.mdを開いてください。
