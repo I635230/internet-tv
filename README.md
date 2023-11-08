@@ -8,7 +8,7 @@
 
 インターネットTVサービスを新規に作成する想定で、以下3点を含みます。
 
-- DB設計([README.md](README.md))
+- DB設計([本ドキュメント](README.md))
 - DB実装 + サンプルデータ入力の手順書([operation_manual.md](operation_manual.md))
 - データ取得SQL([sql.md](sql.md))
 
